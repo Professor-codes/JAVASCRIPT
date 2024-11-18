@@ -17,5 +17,5 @@ for (let num in arr) {
 
 // using for each loop
 arr.forEach((num) => {
-    console.log(num); 
-})
+    console.log(num); // foreach performs operation on existing element and doesn't return any value
+});
